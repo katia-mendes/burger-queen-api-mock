@@ -115,6 +115,12 @@
       "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "admin",
       "id": 3
+    },
+    {
+      "email": "admin@codeburguer.com",
+      "password": "$2a$10$IxNZCNzMuSywlQLrN0qaaenUKPAuu6cDarEKL74mERZSMpiEKIcOy",
+      "role": "admin",
+      "id": 4
     }
   ]
 }
